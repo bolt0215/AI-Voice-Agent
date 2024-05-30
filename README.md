@@ -96,7 +96,5 @@ If you'd like to contribute to the project, feel free to open issues, submit pul
 
 ### Contact
 mayur phatanagre,
-mnphatanagre8@gmail.com,
-!https://www.linkedin.com/in/mayur-phatangare-ba874821b/
 
 
