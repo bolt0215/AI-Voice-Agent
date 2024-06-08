@@ -49,7 +49,7 @@ Provide step-by-step instructions on how to set up and run your voice assistant 
 1. Clone the repository to your local machine:
 
    
-   git clone https://github.com/001Mayur/AI_voice_Assistance.git
+   git clone https://github.com/bolt0215/AI-Voice-Agent.git
    cd ai-voice-assistant
 Install the required dependencies:
     pip install -r requirements.txt
